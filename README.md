@@ -12,7 +12,7 @@ This project is a small movie discovery app built with React and Vite. It lets u
 ## Tech Stack
 
 - React
-- Vite
+- Node.js
 - OMDb API for movie data
 
 ## How it works
